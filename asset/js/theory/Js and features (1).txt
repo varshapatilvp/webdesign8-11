@@ -1,0 +1,70 @@
+
+Javascript
+
+Javascript is a object Oriented Language which is light weighted, cross platform and is used to create dynamic Web pages.
+
+
+Features.
+
+1) All Web browsers Support Javascript.
+2) Supported by Several Operating systems (Windows,Mac,linux), thus cross platform.
+3) It is an object oriented Programming language.
+4) It is interpreted Language.
+5) It is light weighted.
+
+
+Types of JS.
+
+1) Internal
+     In the head section or in the body section.
+
+     <script>
+               JS code
+
+     </script>	 
+2) External
+
+      Create a .js external javascript file.
+	  Write a code.
+	  link that file in the head section using script tag as follow.
+	  
+	  <script src="path of the file"></script>
+	  
+	  
+	  
+3) Comments in javascript.
+
+   single line comment . //
+   multiple line comment.
+   
+   /*
+   
+   */
+   
+4)Browser console.
+
+
+
+English Lang.
+
+alphabets---> words----> sentences-----> paragraph.
+                           (.)
+
+Programming lang.
+
+alphabets       variables
+digits   ------>contants -----> instruction---> program. 
+sp.symbols      keywords          (;)
+
+
+keywords-> predefined words.
+
+e.g var,int,if,else,for,while etc.
+
+var x=10;
+
+
+data types: 
+1) String
+2) Number ---> int(complete number/whole number) and     
+                float(fraction value etc.- 3.5,45.6 ) 
